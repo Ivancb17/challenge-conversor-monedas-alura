@@ -31,7 +31,7 @@ La aplicación es una herramienta de consola que permite realizar las siguientes
 1.  **Clonar el repositorio:**
     ```bash
     git clone https://github.com/msxd26/Conversor-de-monedas-Desafio-Alura-Latam.git
-    cd ExchangeRate
+    cd Conversor-de-monedas-Desafio-Alura-Latam
     ```
 
 2.  **Compilar el proyecto:**
