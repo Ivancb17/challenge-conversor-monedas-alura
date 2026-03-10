@@ -53,4 +53,4 @@ La aplicación consultará la API para obtener la tasa de cambio actual y mostra
 
 ## ⚠️ Nota
 
-El proyecto utiliza una API Key de prueba para `exchangerate-api.com`. Asegúrate de revisar los límites de uso o reemplazarla con tu propia clave si es necesario en la clase `ExchangeApi.java`.
+El proyecto utiliza una API Key de prueba para `exchangerate-api.com`.
