@@ -1,6 +1,6 @@
 # ExchangeRate - Conversor de Monedas
 
-Este es un proyecto simple en Java que permite convertir monedas utilizando tasas de cambio en tiempo real. La aplicación interactúa con la **ExchangeRate-API** para obtener las tasas de conversión actuales.
+Este es un proyecto en Java que permite convertir monedas utilizando tasas de cambio en tiempo real. La aplicación interactúa con la **ExchangeRate-API** para obtener las tasas de conversión actuales.
 
 ## 🚀 Características
 
